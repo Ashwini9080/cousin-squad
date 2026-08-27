@@ -1,0 +1,10 @@
+# Ignore personal photos and media
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp3
+
+# VS Code settings
+.vscode/
+.codesight/
